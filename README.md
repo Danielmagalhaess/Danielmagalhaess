@@ -16,6 +16,8 @@ Me chamo Daniel Magalhães da Silva, tenho 17 anos e sou de Presidente Prudente-
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-<EJS_COLOR>?style=for-the-badge&logo=<EJS_LOGO>&logoColor=white)
 <img 
     align="left" 
     alt="CSS" 
