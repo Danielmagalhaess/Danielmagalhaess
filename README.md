@@ -8,7 +8,7 @@ Me chamo Daniel Magalhães da Silva, tenho 17 anos e sou de Presidente Prudente-
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block;"><br>
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Daniel-EJS" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg"/>
   <img align="center" alt="Daniel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
