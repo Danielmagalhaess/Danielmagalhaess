@@ -8,7 +8,6 @@ Me chamo Daniel Magalhães da Silva, tenho 17 anos e sou de Presidente Prudente-
 
 ### 🤖 Linguagens e Tecnologias
 
-<p>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
@@ -56,7 +55,6 @@ Me chamo Daniel Magalhães da Silva, tenho 17 anos e sou de Presidente Prudente-
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 />
-</p>
 
 <br/>
 <br/>
