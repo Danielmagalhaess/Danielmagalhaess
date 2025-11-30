@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Daniel Magalhães
 
-**`Aprendiz Desenvolvimento de Sistemas`**
+**`Desenvolvedor Full Stack`**
 
 Me chamo Daniel Magalhães da Silva, tenho 17 anos e sou de Presidente Prudente-SP. Estou no ultimo ano do Ensino Médio no Sesi, e estou cursando Desenvolvimento de Sistemas no Senai.
 
