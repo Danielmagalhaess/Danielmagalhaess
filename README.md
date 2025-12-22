@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Daniel Magalhães da Silva, tenho 17 anos e sou de Presidente Prudente-SP. Estou no ultimo ano do Ensino Médio no Sesi, e estou cursando Desenvolvimento de Sistemas no Senai.
-
+Sou Desenvolvedor de Sistemas formado pelo **SENAI**, com experiência acadêmica e prática em desenvolvimento full stack, bancos de dados e APIs REST. **Aluno destaque da turma**, com interesse em construir soluções eficientes, organizadas e bem estruturadas.
 ---
 
 ### 🤖 Linguagens e Tecnologias
