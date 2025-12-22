@@ -3,6 +3,7 @@
 **`Desenvolvedor Full Stack`**
 
 Sou Desenvolvedor de Sistemas formado pelo **SENAI**, com experiência acadêmica e prática em desenvolvimento full stack, bancos de dados e APIs REST. **Aluno destaque da turma**, com interesse em construir soluções eficientes, organizadas e bem estruturadas.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
